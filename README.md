@@ -16,7 +16,6 @@
 - [Executando os Testes](#executando-os-testes)
 - [Resultados](#resultados)
 - [Análise de Desempenho](#análise-de-desempenho)
-- [Estrutura do Projeto](#estrutura-do-projeto)
 
 ## 🎯 Sobre o Projeto
 
