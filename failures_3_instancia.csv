@@ -1,0 +1,7 @@
+Method,Name,Error,Occurrences
+GET,/?p=2,500 Server Error: Internal Server Error for url: http://nginx/wp-admin/install.php,31
+GET,/?p=3,500 Server Error: Internal Server Error for url: http://nginx:80/?p=3,226
+GET,/?p=2,500 Server Error: Internal Server Error for url: http://nginx:80/?p=2,220
+GET,/?p=1,500 Server Error: Internal Server Error for url: http://nginx/wp-admin/install.php,40
+GET,/?p=3,500 Server Error: Internal Server Error for url: http://nginx/wp-admin/install.php,29
+GET,/?p=1,500 Server Error: Internal Server Error for url: http://nginx:80/?p=1,205
